@@ -17,6 +17,6 @@ $ source setup.sh
 
 Note:
 To access the GPIO pin the HDMI overlay must be disabled. To do this, enable the following line
-in the /doot/uEnv.txt file:
+in the /boot/uEnv.txt file:
 disable_uboot_overlay_video=1
 
